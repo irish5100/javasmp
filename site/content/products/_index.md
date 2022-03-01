@@ -7,7 +7,7 @@ description: >-
    Earth SMP is the ultimate spot for Minecraft lovers who want to learn about their
    java’s origin and support the workers that made it. We take server production,
    enjoyment and development seriously and we’re glad to pass that knowledge to
-  anyone.
+   anyone.
 intro:
   blurbs:
 	- image: /img/illustrations.png
