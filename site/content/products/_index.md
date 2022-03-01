@@ -3,11 +3,11 @@ title: Our Products
 type: products
 image: /img/products-jumbotron.png
 heading: What we offer
-description: >
-    Earth SMP is the ultimate spot for Minecraft lovers who want to learn about their
-    java’s origin and support the workers that made it. We take server production,
-    enjoyment and development seriously and we’re glad to pass that knowledge to
-    anyone.
+description: >-
+  Earth SMP is the ultimate spot for Minecraft lovers who want to learn about their
+  java’s origin and support the workers that made it. We take server production,
+  enjoyment and development seriously and we’re glad to pass that knowledge to
+  anyone.
 intro:
   blurbs:
 	- image: /img/illustrations.png
