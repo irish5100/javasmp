@@ -18,22 +18,22 @@ intro:
     - image: /img/illustrations-gear.png
       text: >
         We offer a small, but carefully curated selection of exciting landscape
-		for you and your friends to enjoy! We also have tons of exciting places
-		to visit inside of the big game. Including, a wonderful jungle, bamboo
-		farms and much much more!
+               for you and your friends to enjoy! We also have tons of exciting places
+                to visit inside of the big game. Including, a wonderful jungle, bamboo
+                farms and much much more!
     - image: /img/illustrations-tutorials.png
       text: >
         Earth SMP is a multiplayer server so you can play with your friends!
-		You can take a look at all of the interesting views of the vast landscape
-		with your friends! If you don't have many friends you can always make new
-		friends by joining our community discord server and starting a conversation
-		with one of our friendly members!
+                You can take a look at all of the interesting views of the vast landscape
+                with your friends! If you don't have many friends you can always make new
+                friends by joining our community discord server and starting a conversation
+                with one of our friendly members!
     - image: /img/illustrations-meeting-space.png
       text: >
         We believe that good Minecraft day can result in relief of any stress you
-		are dealing with, it is a good way to take a rest from the big world and
-		take a break. So why don't you come and join Earth SMP, you can just go
-		mining and find all sorts of interesting goods for all of your needs.
+                are dealing with, it is a good way to take a rest from the big world and
+                take a break. So why don't you come and join Earth SMP, you can just go
+                mining and find all sorts of interesting goods for all of your needs.
   heading: What We Offer
   description: >
   Earth SMP is the ultimate spot for Minecraft lovers who want to learn about their
@@ -44,9 +44,9 @@ main:
   heading: Great Experience, No Regrets
   description: >
     We try to make the highest standards for our members so everyone can enjoy
-	playing in our server, our determination to become one of the most popular
-	minecraft servers is unbeatable. The staff team at Earth SMP is like no-other
-	staff team, all the staff trys their best to improve the experience for everyone!
+        playing in our server, our determination to become one of the most popular
+        minecraft servers is unbeatable. The staff team at Earth SMP is like no-other
+        staff team, all the staff trys their best to improve the experience for everyone!
   image1:
     alt: A close-up of a Minecraft Hoglin.
     image: /img/products-grid3.png
@@ -60,19 +60,19 @@ testimonials:
   - author: Max Crawshaw
     quote: >-
       I think it's very good and It's very friendly,
-	  i would consider it to be my favourite server.
+      i would consider it to be my favourite server.
   - author: Beaster
     quote: >-
       Earth SMP is the place to go if you want the 
       best quality entertainment. I love their
       stance on empowering members and transparency 
-	  of their decisions.
+       of their decisions.
   - author: Custard Factory
     quote: >-
       Fantastic server, with excellent staff,
-	  very good semi vanilla server, not laggy,
-	  with fun plugins. 100% recommend. 
-	  Only downside is that it needs more players.
+          very good semi vanilla server, not laggy,
+          with fun plugins. 100% recommend. 
+          Only downside is that it needs more players.
   - author: Earth SMP Admin Account
     quote: >-
       TEMP TEMP TEMP TEMP
@@ -102,7 +102,7 @@ pricing:
         - Diamond Donator role
         - Premium discord channel
         - Premuim in-game barrel full of surprises every month
-		- Ability to post images/GIFs in chat
+        - Ability to post images/GIFs in chat
       plan: Diamond Plan
       price: '25'
 ---
