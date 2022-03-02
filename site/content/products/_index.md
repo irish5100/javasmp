@@ -13,8 +13,8 @@ intro:
         - image: /img/illustrations.png
         text: >
                 We offer a massive range of exciting things to do while you spend your
-                time in the Earth SMP communtiy, you can go on exciting journeys
-                or you can just stay at home and relax!
+                time in the Earth SMP communtiy, you can go on exciting journeys or you
+                can just stay at home and relax!
     - image: /img/illustrations-gear.png
       text: >
         We offer a small, but carefully curated selection of exciting landscape
