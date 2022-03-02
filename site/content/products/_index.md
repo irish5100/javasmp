@@ -10,7 +10,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-	- image: /img/illustrations.png
+	- image: img/illustrations.png
 	text: >
 		We offer a massive range of exciting things to do while you spend your
 		time in the Earth SMP communtiy, you can go on exciting journeys
