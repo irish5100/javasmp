@@ -14,11 +14,11 @@ intro:
         text: >
                 We offer a massive range of exciting things to do while you spend your
                 time in the Earth SMP communtiy, you can go on exciting journeys
-        or you can just stay at home and relax!
+                or you can just stay at home and relax!
     - image: /img/illustrations-gear.png
       text: >
         We offer a small, but carefully curated selection of exciting landscape
-               for you and your friends to enjoy! We also have tons of exciting places
+                for you and your friends to enjoy! We also have tons of exciting places
                 to visit inside of the big game. Including, a wonderful jungle, bamboo
                 farms and much much more!
     - image: /img/illustrations-tutorials.png
