@@ -9,8 +9,8 @@ description: >-
   enjoyment and development seriously and we’re glad to pass that knowledge to
   anyone.
 intro:
-  blurbs:
-	- image: img/illustrations.png
+  blurbs: >
+	- image: /img/illustrations.png
 	text: >
 		We offer a massive range of exciting things to do while you spend your
 		time in the Earth SMP communtiy, you can go on exciting journeys
