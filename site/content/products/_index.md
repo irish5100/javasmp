@@ -12,8 +12,8 @@ intro:
   blubs: >
         - image: /img/illustrations.png
         text: >
-                We offer a massive range of exciting things to do while you spend your
-                can just stay at home and relax!
+                Hi.
+
     - image: /img/illustrations-gear.png
       text: >
         We offer a small, but carefully curated selection of exciting landscape
