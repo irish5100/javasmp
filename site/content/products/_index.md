@@ -23,14 +23,14 @@ intro:
                 farms and much much more!
     - image: /img/illustrations-tutorials.png
       text: >
-        Earth SMP is a multiplayer server so you can play with your friends!
+                Earth SMP is a multiplayer server so you can play with your friends!
                 You can take a look at all of the interesting views of the vast landscape
                 with your friends! If you don't have many friends you can always make new
                 friends by joining our community discord server and starting a conversation
                 with one of our friendly members!
     - image: /img/illustrations-meeting-space.png
       text: >
-        We believe that good Minecraft day can result in relief of any stress you
+                We believe that good Minecraft day can result in relief of any stress you
                 are dealing with, it is a good way to take a rest from the big world and
                 take a break. So why don't you come and join Earth SMP, you can just go
                 mining and find all sorts of interesting goods for all of your needs.
