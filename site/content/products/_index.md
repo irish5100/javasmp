@@ -35,18 +35,18 @@ intro:
                 take a break. So why don't you come and join Earth SMP, you can just go
                 mining and find all sorts of interesting goods for all of your needs.
   heading: What We Offer
-  description: >
+ description: >
   Earth SMP is the ultimate spot for Minecraft lovers who want to learn about their
   java’s origin and support the workers that made it. We take server production,
   enjoyment and development seriously and we’re glad to pass that knowledge to
   anyone.
 main:
   heading: Great Experience, No Regrets
-  description: >
-    We try to make the highest standards for our members so everyone can enjoy
-        playing in our server, our determination to become one of the most popular
-        minecraft servers is unbeatable. The staff team at Earth SMP is like no-other
-        staff team, all the staff trys their best to improve the experience for everyone!
+description: >
+  We try to make the highest standards for our members so everyone can enjoy
+  playing in our server, our determination to become one of the most popular
+  minecraft servers is unbeatable. The staff team at Earth SMP is like no-other
+  staff team, all the staff trys their best to improve the experience for everyone!
   image1:
     alt: A close-up of a Minecraft Hoglin.
     image: /img/products-grid3.png
