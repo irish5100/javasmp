@@ -18,9 +18,9 @@ intro:
     - image: /img/illustrations-gear.png
       text: >
         We offer a small, but carefully curated selection of exciting landscape
-                for you and your friends to enjoy! We also have tons of exciting places
-                to visit inside of the big game. Including, a wonderful jungle, bamboo
-                farms and much much more!
+        for you and your friends to enjoy! We also have tons of exciting places
+        to visit inside of the big game. Including, a wonderful jungle, mob
+        farms and much much more!
     - image: /img/illustrations-tutorials.png
       text: >
         Earth SMP is a multiplayer server so you can play with your friends!
