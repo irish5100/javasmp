@@ -33,7 +33,6 @@ intro:
         We believe that good Minecraft day can result in relief of any stress you
         are dealing with, it is a good way to take a rest from the big world and
         take a break. So why don't you come and join Earth SMP, you can just go
-        mining and find all sorts of interesting goods for all of your needs.
   heading: What We Offer
  description: >
   Earth SMP is the ultimate spot for Minecraft lovers who want to learn about their
